@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yasmindata
-- 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently actively learning Python
+- 👀 I’m a Data Analysis
+- 🌱 I’m currently actively exploring new projects
 - 📫 How to reach me yasmin.seghier@gmail.com
 
